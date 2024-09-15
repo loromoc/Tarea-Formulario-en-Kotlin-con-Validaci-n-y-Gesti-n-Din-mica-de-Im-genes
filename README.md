@@ -11,10 +11,15 @@ En segundo paso lo que hacemos es ir modificando activity main.xml quitando la c
 3.-Tercer PASO
 En el tercer paso se colocaron cada uno de las casillas de texto que necesitamos para poder hacer nuestra aplicacion, asi mismo cada uno de estos <EditText tendra en su interior atributos como el margen de su boton, el inputType entre otras.
 ![image](https://github.com/user-attachments/assets/cb0b99b6-91f9-4465-9f4f-55a4096be475)
+
 cada uno de estos pasos se va a ir modificando dependiendo de los datos que se requieren por ejemplo en el telefono en su hint, solo se colocara Numero de telefono y en su inputType Phone, se realizaran estos cambios dependiendo de lo que se va a hacer.
+
 ![image](https://github.com/user-attachments/assets/80afa915-b891-448f-8d50-d3b731723801)
+
 asi mismo en este paso se agregara el imageview el cual nos mostrara una imagen en base a los atributos que se requyieran ya sea como el alto y el ancho que se quiera de esta imagen, asi mismo como su margen, el tipo de alinacion, entre otras.
+
 ![image](https://github.com/user-attachments/assets/f9f8f887-b1a9-4244-afe5-4e99f87610f6)
+
 y por ultimo colocaremos un boton el cual nos dara la opcion de que los datos sean enviados correctamente 
 
 4.-Cuarto PASO
