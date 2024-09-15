@@ -30,6 +30,14 @@ En este paso lo que hice fue hacer que la imagen se encontrara en los repositios
 En este paso se modifico el MainActivity.kt y le pondremos variables inmutables a cada una de las acciones, ya sea como guardar datos, para agregar numeros telefonicos, correo electronico y en el btn submit.
 ![image](https://github.com/user-attachments/assets/6ca7e0bf-ddf6-4ee2-b671-f607e856d08a)
 
+6.-Sexto PASO
+y solo falta comprobar la aplicacion virtual en en el mismo android studio
+![image](https://github.com/user-attachments/assets/443ef955-4876-47f8-ac28-8a510f8baae4)
+
+![image](https://github.com/user-attachments/assets/e91dde96-221b-45c0-aceb-6a94f165868d)
+
+
+
 
 
 
