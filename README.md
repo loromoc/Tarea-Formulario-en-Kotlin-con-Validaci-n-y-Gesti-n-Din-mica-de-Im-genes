@@ -41,9 +41,8 @@ y solo falta comprobar la aplicacion virtual en en el mismo android studio
 
 ![image](https://github.com/user-attachments/assets/e91dde96-221b-45c0-aceb-6a94f165868d)
 
-
-
-
+7.-Septimo PASO
+[Romo_Campos_Luis_Angel.zip](https://github.com/user-attachments/files/17006399/Romo_Campos_Luis_Angel.zip)
 
 
 
